@@ -75,7 +75,7 @@ export function Sidebar() {
             "text-xl font-bold text-sidebar-foreground transition-opacity",
             collapsed && "lg:opacity-0"
           )}>
-            Condominio Pro
+            IntegraLab
           </h1>
         </div>
         
@@ -117,14 +117,14 @@ export function Sidebar() {
         )}>
           <div className="flex items-center gap-3">
             <div className="h-8 w-8 rounded-full bg-sidebar-primary flex items-center justify-center text-white">
-              A
+              C
             </div>
             <div className={cn(
               "transition-opacity",
               collapsed && "lg:opacity-0"
             )}>
               <p className="text-sm font-medium text-sidebar-foreground">Admin</p>
-              <p className="text-xs text-sidebar-foreground/60">admin@condominio.com</p>
+              <p className="text-xs text-sidebar-foreground/60">Cristian.alvarado@usach.cl</p>
             </div>
           </div>
         </div>
