@@ -73,6 +73,6 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ## 🙋‍♂️ Autor
 
-Tu Nombre - CrisAlva1414 o Cristian Alvarado en LinkedIn
+CrisAlva1414 o Cristian Alvarado en LinkedIn
 
 Proyecto creado con ❤️ para hacer la vida más fácil a administradores y residentes de condominios.
